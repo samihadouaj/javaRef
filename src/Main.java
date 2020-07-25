@@ -6,6 +6,6 @@ public class Main {
         int a = 5;
         int b = 6;
         int result = add(a,b);
-        System.out.println("a+b = "+z);
+        System.out.println("a+b = "+result);
     }
 }
